@@ -11,6 +11,7 @@
     <li>AWS</li>
     <li>Docker</li>
     <li>Kubernetes</li>
+    <li>Version Control</li>
   </ol>  
   <br>
   <p>Click <a href="index.jsp">here</a> to go back to the home page.</p>
