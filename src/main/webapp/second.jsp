@@ -5,7 +5,6 @@
 </head>
 <body>
   <h1>This is the list of topics covered.</h1>
-  <br>
   <ol type="1">
     <li>Linux</li>
     <li>AWS</li>
@@ -13,7 +12,7 @@
     <li>Kubernetes</li>
     <li>Version Control</li>
   </ol>  
-  <br>
   <p>Click <a href="index.jsp">here</a> to go back to the home page.</p>
+  <p>Click <a href="third.jsp">here</a> to go back to the comments page.</p>
 </body>
 </html>
